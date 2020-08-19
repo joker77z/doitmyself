@@ -16,5 +16,6 @@ public class method2 {
 		out = out + text + "\n";
 		out = out + delimiter + "\n";
 		return out;
+		 
 	}
 }
