@@ -1,0 +1,2 @@
+# doitmyself
+make code myself
